@@ -6,7 +6,8 @@
 3. How Jia Tong  
 
 #### Brief overview of the Milestone 1:<br />
-aaaa <br /><br />
+In this project, we install the STM32CubeIDE and write a C program that blink the LED at 1 H of STM32F446 board.  <br />
+We understand the hardware abstraction layer (HAL) enabling portability between different STM32 devices via standardized API calls. Therefore, we Main Loop With Delay<br />
 
 #### Photos of the STM32F446 Board:<br />
 ![image](https://user-images.githubusercontent.com/105091269/167237753-54961359-d844-4c76-af4e-5e69d7668355.png) <br />
