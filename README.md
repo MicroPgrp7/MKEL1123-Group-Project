@@ -7,6 +7,7 @@
 
 #### Brief overview of the Milestone 1:<br />
 aaaa <br /><br />
+
 #### Photos of the STM32F446 Board:<br />
 ![image](https://user-images.githubusercontent.com/105091269/167237753-54961359-d844-4c76-af4e-5e69d7668355.png) <br />
 Figure 1: Front View of STM32F446<br /><br />
