@@ -6,8 +6,8 @@
 3. How Jia Tong  
 
 #### Brief overview of the Milestone 1:<br />
-In this project, we install the STM32CubeIDE and write a C program that blink the LED at 1 Hz of STM32F446 board. The hardware abstraction layer (HAL) enabling portability between different STM32 devices via standardized API calls.
-Therefore, the led is simply toggled in the main loop of the program, with 1000ms delay. In the  program, we used "HAL_GPIO_TogglePin" to toggles the GPIO pin 5 and "HAL_Delay" in order to blink the LED. From this project, we be more familiar about STM32CubeIDE, STM32F446 board and utilizing of GitHub. <br />
+In this project, we install the sofware of STM32CubeIDE and write a C program that blink the LED at 1 Hz on STM32F446 board. The hardware abstraction layer (HAL) enabling portability between different STM32 devices via standardized API calls.
+Therefore, the LED is simply toggled in the main loop of the program, with 1000ms delay. In the  program, we used "HAL_GPIO_TogglePin" to toggles the GPIO pin 5 and "HAL_Delay" in order to blink the LED. From this project, we will be more familiar about STM32CubeIDE, STM32F446 board and utilizing of GitHub. <br />
 
 #### Photos of the STM32F446 Board:<br />
 ![image](https://user-images.githubusercontent.com/105091269/167237753-54961359-d844-4c76-af4e-5e69d7668355.png) <br />
