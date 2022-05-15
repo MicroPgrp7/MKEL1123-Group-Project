@@ -1,4 +1,4 @@
-# MKEL1123-Group-Project-
+# MKEL1123-Group-Project
 
 #### Prepared by Group 7:
 1. Ooi Jia Fu
