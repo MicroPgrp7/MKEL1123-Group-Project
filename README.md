@@ -1,6 +1,6 @@
 # MKEL1123-Group-Project
 
-#### Prepared by Group 7:
+#### Prepared by Group 7 (The Assembler):
 1. Ooi Jia Fu
 2. Chiam Cin Ni
 3. How Jia Tong  
