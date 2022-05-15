@@ -20,4 +20,8 @@ Figure 3: LED turn on<br /><br />
 Figure 4: LED turn off<br /><br />
 
 #### YouTube link:<br />
+https://youtu.be/-pJlmNb9Rnk
 
+#### Referred Tutorials:<br />
+1. Getting Started with STM32 and Nucleo Part 1: Introduction to STM32CubeIDE and Blinky – Digi-Key - https://youtu.be/hyZS2p1tW-g 
+2. STM32-Nucleo - Keil 5 IDE with CubeMX: Tutorial 1 - LED Blink - https://youtu.be/FAv0LO5E2TM
